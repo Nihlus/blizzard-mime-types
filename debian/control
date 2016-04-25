@@ -1,0 +1,16 @@
+Source: blizzard-mime-types
+Section: misc
+Priority: optional
+Maintainer: Jarl Gullberg <jarl.gullberg@gmail.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.5
+Homepage: https://github.com/Nihlus/blizzard-mime-types
+#Vcs-Git: git://git.debian.org/collab-maint/blizzard-mime-types.git
+#Vcs-Browser: http://git.debian.org/?p=collab-maint/blizzard-mime-types.git;a=summary
+
+Package: blizzard-mime-types
+Architecture: all
+Depends: ${misc:Depends}, shared-mime-info (>= 1.2)
+Description: FreeDesktop MIME types for Blizzard Entertainment file formats
+ This package provides a full set of FreeDesktop-compatible MIME types for Blizzard Entertainment
+ file formats.

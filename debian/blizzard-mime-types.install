@@ -1,0 +1,15 @@
+usr/share/mime/application/vnd.blizzard-addon-manifest.xml /usr/share/mime/packages/
+usr/share/mime/application/vnd.blizzard-addon-signature.xml /usr/share/mime/packages/
+usr/share/mime/application/vnd.blizzard-archive-mopaq.xml /usr/share/mime/packages/
+usr/share/mime/application/vnd.blizzard-database.xml /usr/share/mime/packages/
+usr/share/mime/application/vnd.blizzard-shader.xml /usr/share/mime/packages/
+usr/share/mime/application/vnd.blizzard-terrain-data.xml /usr/share/mime/packages/
+usr/share/mime/application/vnd.blizzard-terrain-level.xml /usr/share/mime/packages/
+usr/share/mime/application/vnd.blizzard-terrain-liquid.xml /usr/share/mime/packages/
+usr/share/mime/application/vnd.blizzard-terrain-table.xml /usr/share/mime/packages/
+usr/share/mime/application/vnd.blizzard-terrain-water.xml /usr/share/mime/packages/
+usr/share/mime/image/vnd.blizzard-blp.xml /usr/share/mime/packages/
+usr/share/mime/model/vnd.blizzard-mdx.xml /usr/share/mime/packages/
+usr/share/mime/model/vnd.blizzard-wmo.xml /usr/share/mime/packages/
+usr/share/mime/text/vnd.blizzard-config.xml /usr/share/mime/packages/
+usr/share/mime/text/vnd.blizzard-hashmap.xml /usr/share/mime/packages/
