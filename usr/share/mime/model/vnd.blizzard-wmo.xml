@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mime-info xmlns='http://www.freedesktop.org/standards/shared-mime-info'>
+  <mime-type type="model/vnd.blizzard-wmo">
+    <comment>Blizzard World Model Object</comment>
+    <glob pattern="*.wmo"/>
+    <glob pattern="*.WMO"/>
+  </mime-type>
+</mime-info>

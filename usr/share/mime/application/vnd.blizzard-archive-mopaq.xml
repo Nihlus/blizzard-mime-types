@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mime-info xmlns='http://www.freedesktop.org/standards/shared-mime-info'>
+  <mime-type type="application/vnd.blizzard-archive-mopaq">
+    <comment>Blizzard MoPaQ Binary Archive</comment>
+    <icon name="package-x-generic"/>
+    <glob pattern="*.mpq"/>
+    <glob pattern="*.MPQ"/>
+  </mime-type>
+</mime-info>
