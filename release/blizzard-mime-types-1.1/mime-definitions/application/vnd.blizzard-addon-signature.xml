@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<mime-info xmlns='http://www.freedesktop.org/standards/shared-mime-info'>
-  <mime-type type="application/vnd.blizzard-addon-signature">
-    <comment>Blizzard TOC Addon Signature</comment>
-    <glob pattern="*.toc.sig"/>
-    <glob pattern="*.TOC.SIG"/>
-  </mime-type>
-</mime-info>
