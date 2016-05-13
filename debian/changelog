@@ -1,3 +1,11 @@
+blizzard-mime-types (1.1-2) trusty; urgency=medium
+
+  * Fixed invalid path in install file
+  * Added README.md to docs file
+  * Removed stub content from control file
+
+ -- Jarl Gullberg <jarl.gullberg@gmail.com>  Fri, 13 May 2016 16:53:37 +0200
+
 blizzard-mime-types (1.1-1) trusty; urgency=medium
 
   * Updated packaging system files.

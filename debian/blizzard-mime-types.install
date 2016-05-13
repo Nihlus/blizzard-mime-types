@@ -1,4 +1,4 @@
-usr/share/mime/application/* /usr/share/mime/packages/
-usr/share/mime/image/* /usr/share/mime/packages/
-usr/share/mime/model/* /usr/share/mime/packages/
-usr/share/mime/text/* /usr/share/mime/packages/
+mime-definitions/application/* /usr/share/mime/packages/
+mime-definitions/image/* /usr/share/mime/packages/
+mime-definitions/model/* /usr/share/mime/packages/
+mime-definitions/text/* /usr/share/mime/packages/

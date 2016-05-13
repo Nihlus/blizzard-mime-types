@@ -5,8 +5,6 @@ Maintainer: Jarl Gullberg <jarl.gullberg@gmail.com>
 Build-Depends: debhelper (>= 8.0.0)
 Standards-Version: 3.9.5
 Homepage: https://github.com/Nihlus/blizzard-mime-types
-#Vcs-Git: git://git.debian.org/collab-maint/blizzard-mime-types.git
-#Vcs-Browser: http://git.debian.org/?p=collab-maint/blizzard-mime-types.git;a=summary
 
 Package: blizzard-mime-types
 Architecture: all
