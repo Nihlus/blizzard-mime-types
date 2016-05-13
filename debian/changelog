@@ -1,3 +1,9 @@
+blizzard-mime-types (1.2-1) trusty; urgency=medium
+
+  * Fixed invalid versioning
+
+ -- Jarl Gullberg <jarl.gullberg@gmail.com>  Fri, 13 May 2016 16:56:56 +0200
+
 blizzard-mime-types (1.1-2) trusty; urgency=medium
 
   * Fixed invalid path in install file

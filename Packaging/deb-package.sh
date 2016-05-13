@@ -6,7 +6,7 @@ cd $(dirname $0)
 SOFTWARE_ROOT=$(readlink -f "..")
 SOFTWARE_NAME="blizzard-mime-types"
 OUTPUT_ROOT="$SOFTWARE_ROOT/release"
-SOFTWARE_VERSION="1.1"
+SOFTWARE_VERSION="1.2"
 
 RED='\033[0;31m'
 GREEN='\033[0;32m'
