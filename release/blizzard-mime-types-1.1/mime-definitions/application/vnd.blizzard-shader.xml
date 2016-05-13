@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mime-info xmlns='http://www.freedesktop.org/standards/shared-mime-info'>
+  <mime-type type="application/vnd.blizzard-shader">
+    <comment>Blizzard Shader Container</comment>
+    <glob pattern="*.bls"/>
+  </mime-type>
+</mime-info>

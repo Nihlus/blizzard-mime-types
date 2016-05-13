@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mime-info xmlns='http://www.freedesktop.org/standards/shared-mime-info'>
+  <mime-type type="model/vnd.blizzard-mdx">
+  <comment>Blizzard MDX Game Model</comment>
+    <glob pattern="*.m2"/>
+    <glob pattern="*.M2"/>
+    <glob pattern="*.mdx"/>
+  </mime-type>
+</mime-info>
